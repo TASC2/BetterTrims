@@ -1,4 +1,1 @@
-## Changelog
-
-# 2.3.2
-- Fix ender-pearl trim applying always
+[Moved Here](https://github.com/Bawnorton/BetterTrims/blob/stonecutter/CHANGELOG.md)
